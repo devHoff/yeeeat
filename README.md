@@ -1,4 +1,4 @@
-# Yeeeat Injector
+# Yeeeat Injector [BETA]
 
 Yeeeat is a Roblox Injector with built-in Scripts. <br> <br>
 

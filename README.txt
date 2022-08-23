@@ -21,3 +21,4 @@ WeAreDevs_API.dll
 FastColoredTextBox.dll
 
 Have fun ;)
+

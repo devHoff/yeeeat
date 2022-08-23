@@ -5,7 +5,14 @@ Yeeeat is a Roblox Injector with built-in Scripts. <br> <br>
 
 
 ![Animação](https://user-images.githubusercontent.com/65049490/186169544-a15a9f62-f2e9-41f4-8cd7-734699d29ae9.gif)
+<br>
+<br>
 
+# Contact Me
+Hmu on Discord:
+mvp#8456
+<br>
+<br>
 # Credits
 
 Developed by:
@@ -16,4 +23,6 @@ Developed by:
 @@ 1 F0 (Executor) @@
 ```
 <br>
+<br>
+
 Have fun ;)

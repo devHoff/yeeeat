@@ -25,4 +25,9 @@ Developed by:
 <br>
 <br>
 
+# DLL/API's Used
+- WeAreDevs_API.dll (For Injec)
+- FastColoredTextBox.dll (For UI)
+<br>
+<br>
 Have fun ;)

@@ -23,7 +23,6 @@ Developed by:
 @@ 1 F0 (Executor) @@
 ```
 <br>
-<br>
 
 # DLL/API's Used
 - WeAreDevs_API.dll (For Injec)

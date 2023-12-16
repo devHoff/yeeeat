@@ -10,7 +10,7 @@ Yeeeat is a Roblox Injector with built-in Scripts. <br> <br>
 
 # Contact Me
 Hmu on Discord:
-mvp#8456
+mvp001
 <br>
 <br>
 # Credits
